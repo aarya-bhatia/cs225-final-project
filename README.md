@@ -1,7 +1,5 @@
 # CS 225 Data Structures
 
-## Segfault (aaryab2-arora21-atanwar2)
-
 ### OpenFlights Project
 
 For our project we have decided to use the [OpenFlights](https://openflights.org/data.html) dataset and we plan to do the following:
