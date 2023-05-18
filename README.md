@@ -23,14 +23,14 @@ For our project we have decided to use the [OpenFlights](https://openflights.org
 You should download our code using the following command:
 
 ```
-git clone https://github-dev.cs.illinois.edu/cs225-fa21/aaryab2-arora21-atanwar2
+git clone https://github.com/aarya-bhatia/cs225-final-project.git
 ```
 
 From inside the project directory compile the code with the Makefile.
 
 ```
-cd aaryab2-arora21-atanwar2
-make
+cd cs225-final-project
+make clean && make
 ```
 
 The makefile will create an executable with the name 'main'. Now you can run the program.
