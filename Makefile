@@ -1,4 +1,4 @@
-CXX=clang++
+CXX=g++
 WARNINGS=-pedantic -Wall -Werror -Wfatal-errors -Wextra -Wno-unused-parameter -Wno-unused-variable
 INCLUDE=-Ilib/ -Isrc/ -Itests/ 
 CXXFLAGS=-std=c++14 -O0 -MMD -MP $(WARNINGS) $(INCLUDE) -g -c
